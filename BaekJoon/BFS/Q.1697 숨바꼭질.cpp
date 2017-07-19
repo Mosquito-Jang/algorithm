@@ -29,7 +29,6 @@ int main()
 		}
 
 		q.pop();
-		//check[a] = 1;
 
 		if (a - 1 >= 0 && check[a - 1] == 0)
 		{
